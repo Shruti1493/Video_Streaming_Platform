@@ -1,0 +1,7 @@
+*.env
+/node_modules
+/hls-output
+/uploads
+/video_processing/hls-output
+/video_processing/uploads
+src/.env
